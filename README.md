@@ -1,10 +1,10 @@
-# Reisa_archive-release
+# Reisa_Archive-release
 
 블루 아카이브 비공식 팬게임입니다. 비영리로 배포되며, 원작 「블루 아카이브」의 모든 권리는 NEXON에 있습니다.
 
 ## 다운로드
 
-오른쪽 **Releases**에서 최신 버전의 `Mob_archive_Windows.zip`을 받아 압축을 풀고 `Mob_archive.exe`를 실행하면 플레이가 가능합니더
+오른쪽 **Releases**에서 최신 버전의 `Reisa_Archive_Windows.zip`을 받아 압축을 풀고 `Reisa_Archive.exe`를 실행하면 플레이가 가능합니다
 
 ## 실행 시 "Windows의 PC 보호" 경고가 뜰 때
 
