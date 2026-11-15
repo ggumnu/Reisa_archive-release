@@ -1,4 +1,4 @@
-# Reisa_archive-release# Mob_archive
+# Reisa_archive-release
 
 블루 아카이브 비공식 팬게임입니다. 비영리로 배포되며, 원작 「블루 아카이브」의 모든 권리는 NEXON에 있습니다.
 
