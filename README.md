@@ -4,11 +4,11 @@
 
 ## 다운로드
 
-오른쪽 **Releases**에서 최신 버전의 `Mob_archive_Windows.zip`을 받아 압축을 풀고 `Mob_archive.exe`를 실행하세요.
+오른쪽 **Releases**에서 최신 버전의 `Mob_archive_Windows.zip`을 받아 압축을 풀고 `Mob_archive.exe`를 실행하면 플레이가 가능합니더
 
 ## 실행 시 "Windows의 PC 보호" 경고가 뜰 때
 
-개인이 만든 게임이라 코드 서명이 되어 있지 않아 Windows가 경고를 띄웁니다. **추가 정보 → 실행**을 누르면 실행됩니다.
+아무래도 개인이 만든 게임이라 Windows가 경고를 띄웁니다. **추가 정보 → 실행**을 누르면 실행됩니다
 
 ## 플레이 통계 수집 안내
 
